@@ -55,8 +55,9 @@ The final f1 score for the current made model is 17% with 43% recall and just a 
 
 &nbsp;&nbsp;&nbsp;
 # Check out other reference
-[![Canva][canva-shield]][canva-url]
-[![Tableu][tableu-shield]][tableu-url]
+[![Canva][canva-shield]][canva-url] 
+
+[![Tableu][tableu-shield]][tableu-url] `Unfinished`
 
 
 
@@ -67,4 +68,5 @@ The final f1 score for the current made model is 17% with 43% recall and just a 
 [canva-url]: https://www.canva.com/design/DAFrWn64tv8/DoejfThw0ovKkpO7wvuOpg/edit?utm_content=DAFrWn64tv8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 [tableu-shield]: https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
-[tableu-url]: https://public.tableau.com/views/LoanDefaulters_16919738253650/DraftLoanDefaulters?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[tableu-url]: https://public.tableau.com/views/LoanDefaulters_16919738253650/DraftLoanDefaulters?:language=en-US&:display_count=n&:origin=viz_share_link
+
